@@ -1,5 +1,5 @@
 /*
-Coded by Stressedd, published to GitHub.
+Coded by fxckarmani, published to GitHub.
 Please, dont skid the code or try to use it for malicious purposes.
 This is just a demonstration of a common attack used by malware devs.
 */
@@ -203,7 +203,7 @@ int main() {
 
 SetConsoleTitleA("RemoteCMD");
 
-	std::cout << "Made by 0xStressedd on GitHub." << std::endl;
+	std::cout << "Made by fxckarmani on GitHub." << std::endl;
 	std::cout << "Type in help to get started with commands." << std::endl;
 	std::cout << "-----------------" << std::endl;
 	std::cout << "           (    )" << std::endl;
@@ -214,7 +214,7 @@ SetConsoleTitleA("RemoteCMD");
 	std::cout << "     |/ `.;|/;" << std::endl;
 	std::cout << "      -   -  -"<< std::endl;
 	std::cout << "" << std::endl;
-	std::cout << "She wanna fuck with the Moo - Pop Smoke" << std::endl;
+	std::cout << "" << std::endl;
 	std::cout << "" << std::endl;
 
 
@@ -254,4 +254,5 @@ SetConsoleTitleA("RemoteCMD");
 
 	closesocket(serverSocket);
 	WSACleanup();
+
 }

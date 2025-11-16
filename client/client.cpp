@@ -1,5 +1,5 @@
 /*
-Coded by Stressedd, published to GitHub.
+Coded by fxckarmani, published to GitHub.
 Please, dont skid the code or try to use it for malicious purposes.
 This is just a demonstration of a common attack used by malware devs.
 */
@@ -138,4 +138,5 @@ int main(char* argv, int argc) {
 	WSACleanup();
 
 	return 0;
+
 }
